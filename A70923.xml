@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Resolution of the electors and the princes of the empire, February the 11th, 1689 containing the reasons of their declaring war against France : together with the Emperor's concurrence with them in it, and approving the same.</title>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70923</idno><idno type="EEBO-CITATION">13572835</idno>
+  <idno type="VID">100389</idno>
+  <idno type="EEBO-PROQUEST">2240898437</idno>
+  
+            <idno type="STC">Wing R1166</idno>
+            <idno type="STC">ESTC R11475</idno>
+            <idno type="OCLC">13572835</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100389)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 799:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Resolution of the electors and the princes of the empire, February the 11th, 1689 containing the reasons of their declaring war against France : together with the Emperor's concurrence with them in it, and approving the same.</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed May 28, 1689; J. Fraser."</note>
+                  <note>Advertisement on p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Holy Roman Empire --  Foreign relations --  France.</term>
+               <term type="geographic_name">France --  Foreign relations --  Holy Roman Empire.</term>
+               <term type="geographic_name">Holy Roman Empire --  History --  Leopold I, 1658-1705.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100389:1"/>
+            <pb facs="tcp:100389:1"/>
+            <p>THE RESOLUTION OF THE ELECTORS, AND THE PRINCES of the EMPIRE, <hi>February</hi> the 11th, 1689. CONTAINING The REASONS of their Declaring War against <hi>FRANCE:</hi> Together with the EMPEROR's Concurrence with them in it, and approving the same.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED, <date>
+                              <hi>May</hi> 28. 1689.</date>
+                        </p>
+                        <closer>
+                           <signed>J. Fraser.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Ric. Chiswell,</hi> at the <hi>Rose</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="resolution">
+            <pb facs="tcp:100389:2"/>
+            <pb n="1" facs="tcp:100389:2"/>
+            <head>THE RESOLUTION OF THE Electors, and the Princes of the Empire, <hi>February</hi> the 11th, 1689. CONTAINING The REASONS of their Declaring War against <hi>FRANCE, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Hostile Invasions of <hi>France</hi> up<g ref="char:EOLhyphen"/>on the Empire, as also those Mat<g ref="char:EOLhyphen"/>ters which concern the other Con<g ref="char:EOLhyphen"/>traventions, and particularly the two Decrees of the Imperial Com<g ref="char:EOLhyphen"/>mission about the same thing, which were dated <hi>November</hi> the 1st and 13th, 1688. and after<g ref="char:EOLhyphen"/>wards the Memorials of the Cir<g ref="char:EOLhyphen"/>cles and States which are oppressed, having been duly de<g ref="char:EOLhyphen"/>bated in the two Upper Colleges, by which, as well as other ways, it has appeared, That it is now sufficiently evident, how little the <hi>French</hi> have hitherto kept, not only the Truce which was concluded <hi>Aug.</hi> 15. 1688. not<g ref="char:EOLhyphen"/>withstanding all those Requests and Remonstrances which were then made; but that they have actually broke it, and have by force seized upon one place after another in the Empire, and have without leave built Fortifications upon the Ground which unquestionably belonged to the
+<pb n="2" facs="tcp:100389:3"/>Empire; and cast Bridges over the <hi>Rhine,</hi> destroy'd Fo<g ref="char:EOLhyphen"/>rests, have appropriated whole Countreys to themselves by force, under colour of pretended Re unions, against the clear expressions of the Instruments of the Peace be<g ref="char:EOLhyphen"/>tween the Emperour and the King of <hi>Sweden,</hi> and be<g ref="char:EOLhyphen"/>tween the Emperour and the King of <hi>France: §. Cum etiam, &amp;c.</hi> and the 8th Article of the Truce. They have also undertook, as well in these which they call the reunited Countreys, as in o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers which they have oppres<g ref="char:EOLhyphen"/>sed, to establish Reformations against all Right, as well in Ecclesiastical, as in Political Matters, to the great charge both of them, and of their States; and besides, to the prejudice of all their Spiritual and Temporal Rights, and of the Treaties of Peace of <hi>Westphalia</hi> and <hi>Nimeghen,</hi> which were so dearly gotten, and ratify'd, and also of the above-mentioned Truce, besides so many Royal Pro<g ref="char:EOLhyphen"/>mises so often repeated. Yet however, besides all these, and several other barbarous Hostilities, they have broken the Peace, and set upon the sacred Empire of the sudden, ravished the Imperial Fortress of <hi>Philipsburgh</hi> from the Emperor and the Empire, invaded the Territories, Towns, and Forts of the Elector <hi>Palatine,</hi> and the Electors of <hi>Triers</hi> and <hi>Ments,</hi> with the Neighbouring Principalities; entred upon the States of the Empire on both sides of the <hi>Rhine,</hi> have put the Circles of <hi>Frankenland, Schwaben,</hi> and the Upper <hi>Rhine</hi> under Contribution; plundered, burnt and spoiled every thing; and have committed in those Countreys other Scandalous Abuses, and have pro<g ref="char:EOLhyphen"/>ceeded by horrible methods; destroyed the Imperial Cham<g ref="char:EOLhyphen"/>ber, by taking away the Money which was appointed for the Sallary of the Officers, and even that which belong'd to the Poor: and lastly, by carrying away with them the Records of the Chamber. Besides all this, They have, against the canonical and lawful Election of his Electoral
+<pb n="3" facs="tcp:100389:3"/>Highness of <hi>Cologne,</hi> which was confirmed by the Holy See, arrogated to themselves a power of intruding the Cardinal of <hi>Furstemburgh</hi> by force into the Electorship, and they have filled the Electorate, the Dutchies, and neighbouring Countreys with Troops; and they have exacted, and still demand from those Countreys exorbi<g ref="char:EOLhyphen"/>tant Contributions, threatning them with Fire and Sword, by Military Executions, to the absolute desolation of those Countreys. They have also arrested and seized up<g ref="char:EOLhyphen"/>on the innocent Vassals of the Empire, and they still con<g ref="char:EOLhyphen"/>tinue on all hands to proceed against the poor Subjects of the Empire, in a deplorable and unchristian manner, so that they have left nothing undone which might contri<g ref="char:EOLhyphen"/>bute to the total destruction of the Eastates which are faithful to the Empire, and to the overthrowing of their Liberties. For which Reasons it has been thought fit, That in the first place, his Imperial Majesty should have their most humble thanks for his Imperial and Paternal Care, which he has shown with respect to the danger in which the Empire is at present, and for his endeavours to preserve it from that bondage which is threatned from <hi>France,</hi> by sending for its protection and defence several Regiments of Horse and Foot, besides other Evidences of his concern; he having particularly assured the Empire, That al<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough, contrary to the common Opinion, he could not conclude a Peace with the <hi>Ottoman</hi> Port, yet he would send however more than 30000 men for the de<g ref="char:EOLhyphen"/>fence of the Empire; and therefore he shall be humbly desired to continue in the same Opinion, and to give the same powerful assistance, and his further protection to the oppressed Estates of the Empire. In pursuit whereof, it is concluded, That this commendable Intention of His Imperial Majesty in this present Rupture, shall be second<g ref="char:EOLhyphen"/>ed vigorously by the Empire: And therefore, because the
+<pb n="4" facs="tcp:100389:4"/>Crown of <hi>France</hi> hath by its innumerable Contraventions and Infractions (as well in Ecclesiastical as in Political Matters) of the Truce made therewith, which was so sa<g ref="char:EOLhyphen"/>credly promised to be observed; And because the Trea<g ref="char:EOLhyphen"/>ties of <hi>Munster, Osnabrugh,</hi> and <hi>Nimmeghen,</hi> have now lately by the hostile Invasions into the Empire, without giving them the least just occasion, and by so many more than unchristian Hostilities been broken, so that they have incurred both rightfully and actually the penalties of breaking the Peace, according to the express words of the Instrument of Peace which was made between the Em<g ref="char:EOLhyphen"/>peror and the Crown of <hi>France. § qui vero, S.</hi> 113. and forfeited all the benefits and advantages which might have accrued to them by the said Treaty; so that they declare themselves Enemies of the Empire, and therefore they, and those who assist their Confederates, shall be now formally declared to be such; and the War to which the Empire is forced at present, shall be held a common War of the Empire, and shall be here published: and over and above all this, rejecting all those Reports which are maliciously invented to divide Mens minds, and to distract them by false impressions, as if there was any danger in our Reli<g ref="char:EOLhyphen"/>gion; these things shall be all prevented, by a cordial, vigorous, ready, and indissoluble Union amongst those Forces which God has permitted to join, according to the laudable Example of the Electors, Princes and States; who in their faithful Intention, Zeal and Love for the common Cause, (until there can be a greater concurrence of the Empire in Arms) have already begun the defence of their Countrey, not without good success, and stopt the violence of the Enemy, and hindred their further progress into the Circles; that so they might regain what has been already taken from them, and endeavour to comfort those oppressed States, and restore all those
+<pb n="5" facs="tcp:100389:4"/>things which have been altered, as well in Ecclesiastical as in Political Matters, and put all things again into their former condition, according to the fundamental Consti<g ref="char:EOLhyphen"/>tutions and Treaties of Peace, and oblige their Enemies to refund, and give satisfaction for the harm which they have done, as also to give real security for the future. And to carry on this Design the better, No neutrality upon any pretence whatever, nor any correspondence with <hi>France,</hi> or any of his Ministers or Adherents, shall be allow'd or tolerated. But all States shall be obliged to take up Arms against <hi>France;</hi> so that those States which by Neutrality, or by any other way, would draw themselves off the common Assistance, or would assist the Enemies of the Empire with Men, Horses, Ammuni<g ref="char:EOLhyphen"/>tion or Provisions, or by any other way which can be found out, shall for that Reason be looked upon as Common Enemies to the whole Empire, until they shall have acquitted themselves of their Duty, and have re<g ref="char:EOLhyphen"/>conciled themselves in right manner: So that all these Forreign Powers, which either under colour of assisting the Crown of <hi>France,</hi> or upon any other pretence or shadow whatever, to make a diversion, shall set upon any Member or Ally of the Empire in a Hostile manner, shall be looked upon as equal Enemies with <hi>France</hi> it self. It has also been thought convenient to exhort the Princes and Republicks of <hi>Italy,</hi> and particularly to admonish those who hold any thing in fee of the Empire, upon pain of loss of their Fees, not to make any advances of Money, Soldiers, or any thing else directly or indirectly for the Crown of <hi>France,</hi> but rather for the Empire; so that it shall be left to the disposal of His Imperial Ma<g ref="char:EOLhyphen"/>jesty, to write in the name of himself, and of the Em<g ref="char:EOLhyphen"/>pire, not only to those above-mentioned, but also to other Foreign Crowns, Potentates, and Republicks,
+<pb n="6" facs="tcp:100389:5"/>particularly to the Republick of <hi>Switzerland,</hi> to exhort them to keep up a good understanding as good Neigh<g ref="char:EOLhyphen"/>bours, that so their Assistance may be withdrawn from the Crown of <hi>France,</hi> which has broke the Peace, and may rather be employ'd for the Service of the Empire; as also to dissuade both the one and the other, who may have siuister Intentions towards the Empire. And after<g ref="char:EOLhyphen"/>wards, That His Imperial Majesty be desired with all humility, to endeavour to conclude a sure and honoura<g ref="char:EOLhyphen"/>ble Peace with the <hi>Turks,</hi> (the hereditary Enemy of the Christian Name, who is at present so much weakned through the Grace of God, by the victorious Arms of His Imperial Majesty) that so they may the better begin and carry on the War by the united Forces of the Emperor, Electors, Princes and States of the Empire; and that by the Divine Assistance they may entirely pre<g ref="char:EOLhyphen"/>serve the Liberty of <hi>Germany</hi> from those Oppressions with which it is at present threatned; being firmly per<g ref="char:EOLhyphen"/>suaded that the Just God will protect His Imperial Ma<g ref="char:EOLhyphen"/>jesty, and the Empire, against those Invasions and In<g ref="char:EOLhyphen"/>fractions that have been made by the Crown of <hi>France,</hi> which has forgot all Faith in Publick Treaties; and that he will suggest such Counsel and Assistance as may con<g ref="char:EOLhyphen"/>found the Enemies of the Empire. Last of all, It will be very necessary, the sooner the better, to come to a com<g ref="char:EOLhyphen"/>mon Agreement, in what manner the Levies which shall be raised to carry on the War against <hi>France,</hi> shall be disposed; And also they shall not omit to propose to His Imperial Majesty with all possible humility, how far the <hi>Avocatoria's</hi> already published, can be extended, by threatning of more rigorous Penalties, and particularly (according to that commendable Edict made in the King<g ref="char:EOLhyphen"/>doms and hereditary Countreys of His Imperial Majesty) That the Commodities and Manufactures of <hi>France</hi> shall
+<pb n="7" facs="tcp:100389:5"/>be absolutely prohibited throughout the Empire, as all other Contraband Goods; and that the Courts of Ju<g ref="char:EOLhyphen"/>stice, and of the Customs, shall be strictly commanded to use all possible care and inspection, to hinder their im<g ref="char:EOLhyphen"/>portation into the Empire upon any other pretences; And that all Passes be forbidden through the Neighbour<g ref="char:EOLhyphen"/>ing and Neutral Countreys. And that fixt and conve<g ref="char:EOLhyphen"/>nient Edicts and Orders be issued forth against all <hi>French<g ref="char:EOLhyphen"/>men</hi> who shall be found in one place or other, upon any manner of pretence whatever, and against all other Spies and Traytors who shall contravene the <hi>Avocatoria's,</hi> that so they may be exemplarily chastised and executed; and that Processes may be made against them by the Fiscalls, and otherwise, according to the Constitutions of the Empire.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated at</hi> Ratisbon. <date>Feb. 12. 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="answer">
+            <head>The <hi>Emperor</hi>'s Answer.</head>
+            <p>THE most Serene Prince and Lord, <hi>Herman</hi> Mar<g ref="char:EOLhyphen"/>quiss of <hi>Baden</hi> and <hi>Hochberg,</hi> &amp;c. Chief Com<g ref="char:EOLhyphen"/>missioner and Plenipotentiary of his Imperial Majesty at this present Diet, has sent to his Imperial Majesty, the humble Sense of the Empire, which was presented to his most Serene Highness, concerning the unexpected Breach of the Peace from <hi>France;</hi> in which his Imperial Majesty has found, to his satisfaction, how, and with what Judgment, the Electors, Princes, and States of the <hi>Empire;</hi> and on that part, their Councellors, Ambassadors and Envoys, have examined
+<pb n="8" facs="tcp:100389:6"/>this Important Affair, and how commendably they have shown their Love, Care and Zeal for their Countrey, and for those necessary things wherein they have given their Advice: But as to the particular Matters therein contained, they have in the first place found it just, that since the Court of <hi>France,</hi> by their unjust Invasion of the <hi>Empire,</hi> and their Hostilities committed there in so various, and so astonisting a manner, have shown themselves to be the Enemies of the Empire, they ought to be so held, and formally declared to be such: and therefore His Imperial Majesty agrees to it so much the rather, because it is notorious, that this Crown has not only for se<g ref="char:EOLhyphen"/>veral years last past supported the Rebels in <hi>Hungary,</hi> and with Money, and all other sorts of helps; but that they have also raised up the Hereditary Enemies of the Christian Name against His Imperial Majesty, and the Empire: And further (as we have been lately informed out of <hi>Turky,</hi> in such a manner as that we can for certain rely upon it) that they still offer effectually to make an off<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nsive Alliance with the <hi>Ottoman</hi> Port, to continue along with them the War jointly, (which they begun for their own advantage) so as not to make Peace without them: for which Reasons this Crown has not only deserved to be looked upon as the Enemies of the Empire, but also to be no less declared the publick Enemies of Christendom, than it was by the unanimous Reso<g ref="char:EOLhyphen"/>lution of the Empire declared so at <hi>Spires</hi> in the year <hi>1544.</hi> His Imperial Majesty does also confirm their Resolutions, as well in this, as in all the other Points and Clauses, by which the <hi>Empire</hi> holds the Crown of <hi>France,</hi> and its Confede<g ref="char:EOLhyphen"/>rates, and those who assist its Confederates, to be Ene<g ref="char:EOLhyphen"/>mies of the <hi>Empire;</hi> and he will make Provision that all those Edicts which they have so humbly desired for the good of the <hi>Empire,</hi> shall be preserved; and he will intercede with Foreign Princes, Potentates and Republiques, particularly those of <hi>Italy</hi> and <hi>Switzerland,</hi> and reciprocal<g ref="char:EOLhyphen"/>ly
+<pb n="9" facs="tcp:100389:6"/>impart their Resolutions to the States of the <hi>Empire;</hi> and he will omit nothing on his part, which may at any time contribute to the Defence and Advantage of the <hi>Em<g ref="char:EOLhyphen"/>pire.</hi> And last of all, because his Imperial Majesty is of the same Opinion with the Electors, Princes and States, That it would be very necessary to come to one common Agreement, to begin and carry on the War; therefore his Imperial Majesty will expect the most humble Opinions of their Councellors, Ambassadors and Envoys in these things; as also in all those other Points which were left to a further Debate: that is to say, how far the <hi>Avocatoria's</hi> which are already issued out, can be extended, and made more rigo<g ref="char:EOLhyphen"/>rous; and how the Prohibition of all <hi>French</hi> Commodities and Manufactures to be Imported into the <hi>Empire,</hi> can be established and observed; in all which things his most Se<g ref="char:EOLhyphen"/>rene Highness, the Principal Commissioner of his Imperial Majesty, shall be always ready to assure them of all the friend<g ref="char:EOLhyphen"/>ship and good will possible from his Imperial Majesty.</p>
+            <closer>
+               <dateline>
+                  <hi>Signed at</hi> Ratisbon, <date>March <hi>4. 1689.</hi>
+                  </date>
+               </dateline>
+               <signed>L. S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books lately Printed for <hi>Richard Chiswell.</hi>
+            </head>
+            <p>THE Case of Allegiance in our present Circumstances considered, in a Letter from a Minister in the City to a Minister in the Country.</p>
+            <p>A Sermon preached at <hi>Fulham,</hi> in the Chappel of the Palace, upon <hi>Easter</hi>-Day 1689. at the Consecration of the Right Reverend Father in God <hi>Gilbere</hi> Lord Bishop of <hi>Sarum:</hi> By <hi>Anthony Horneck,</hi> D. D.</p>
+            <p>The Judgments of God upon the <hi>Roman Catholick Church,</hi> from its first rigid Laws for universal Conformity to it, unto its last End. With a prospect of these near approaching Revolutions, <hi>viz.</hi> The Revival of the Protestant Profession in an eminent Kingdom, where it was totally suppressed. The last End of all. <hi>Turkish</hi> Hostilities. The general Mortification of the Power of the <hi>Roman Church</hi> in all parts of its Dominions. In Explication of the <hi>Trumpets</hi>
+               <pb facs="tcp:100389:7"/>and <hi>Vials</hi> of the <hi>Apocalypse,</hi> upon Principles generally acknowledged by Pro<g ref="char:EOLhyphen"/>testant Interpreters. By <hi>Drue Cressener,</hi> D. D.</p>
+            <p>A Breviate of the State of <hi>Scotland</hi> in its Government, Supream Courts, Officers of State, Inferiour Officers, Offices and Inferiour Courts, Districts, Jurisdictions, Burroughs Royal, and Free Corporations. <hi>Fol.</hi>
+            </p>
+            <p>Some Considerations touching Succession and Allegiance. 4to.</p>
+            <p>A Discourse concerning the Worship of Images; Preached before the Uni<g ref="char:EOLhyphen"/>versity of <hi>Oxford</hi> By <hi>George Tully,</hi> Sub-Dean of <hi>York,</hi> for which he was suspended.</p>
+            <p>Reflections upon the late Great Revolution: Written by a Lay-Hand in the Country, for the satisfaction of some Neighbours.</p>
+            <p>The History of the Dissertion; or an Account of all the publick Affairs in <hi>England,</hi> from the beginning of <hi>September,</hi> 1688. to the Twelfth of <hi>February</hi> following. With an Answer to a Piece call'd the Dissertion discussed, in a Let<g ref="char:EOLhyphen"/>ter to a Country Gentleman. By a Person of Quality.</p>
+            <p>K. <hi>William</hi> and K. <hi>Lewis,</hi> wherein is set forth the inevitable necessity these Nations lie under of submitting wholly to one or other of these Kings; And that the matter in Controversy is not now between K <hi>William</hi> and K. <hi>James,</hi> but between K. <hi>William</hi> and K. <hi>Lewis</hi> of <hi>France</hi> for the Government of these Nations.</p>
+            <p>An Examination of the Scruples of those who refuse to take the Oath of Al<g ref="char:EOLhyphen"/>legiance, by a Divine of the Church of <hi>England.</hi>
+            </p>
+            <p>A Dialogue betwixt two Friends, a <hi>Jacobite</hi> and a <hi>Williamite;</hi> occasioned by the late Revolution of Affairs, and the Oath of Allegiance.</p>
+            <p>Two Sermons, one against Murmuring, the other against Censuring: By <hi>Symon Patrick,</hi> D D.</p>
+            <p>An Account of the Reasons which induced <hi>Charles</hi> the 2d, K. of <hi>England,</hi> to declare War against the <hi>States General</hi> of the <hi>Ʋnited Provinces</hi> in 1672. And of the <hi>Private League</hi> which he entred into at the same time with the <hi>French King</hi> to carry it on, and to establish Popery in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> as they are set down in the <hi>History of the Dutch War,</hi> Printed in <hi>French</hi> at <hi>Paris,</hi> with the Priviledg of the <hi>French</hi> King, 1682. Which Book he caused to be immediately suppress'd at the Instance of the English Ambassador. <hi>Fol.</hi>
+            </p>
+            <p>An Account of the Private League betwixt the late King <hi>James</hi> the Second and the <hi>French</hi> King. <hi>Fol.</hi>
+            </p>
+            <p>The Case of Oaths Stated. 4to.</p>
+            <p>The Answer of a Protestant Gentleman in <hi>Ireland,</hi> to a late Popish Letter of <hi>N. N.</hi> upon a Discourse between them, concerning the present Posture of that Countrey, and the Part fit for those concern'd there to act in it. 4to.</p>
+            <p>An Apology for the Protestants of <hi>Ireland,</hi> in a brief Narrative of the late Revolutions in that Kingdom; and an Account of the present State thereof: By a Gentleman of Quality. 4to.</p>
+            <p>A Letter from a <hi>French</hi> Lawyer to an English Gentleman, upon the Present Revolution. 4to.</p>
+            <p>Mr. <hi>Wake</hi>'s Sermon before the King and Queen at <hi>Hampton-Court.</hi>
+            </p>
+            <p>— H<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Fast-Sermon before the House of Commons, <hi>June</hi> 5. 1689.</p>
+            <p>Dr. <hi>Tenison</hi>'s Sermon against Self-love, before the House of Commons, <hi>June</hi> 5 1689.</p>
+            <p>Mr. <hi>Tully</hi>'s Sermon of Moderation before the Lord Mayor, <hi>May</hi> 12. 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
